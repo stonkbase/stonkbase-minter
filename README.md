@@ -1,1 +1,5 @@
-# https://stonkbase.org
+# StonkBase
+
+https://stonkbase.org
+
+https://app.stonkbase.org
